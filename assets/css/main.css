@@ -3156,6 +3156,51 @@
 			background-position: center 70%;
 		}
 
+		#banner.Isolation {
+			background-image: url("images/overlay.png"), url("../../images/Isolation.JPG");
+			background-position: center 70%;
+		}
+
+		#banner.books {
+			background-image: url("images/overlay.png"), url("../../images/bookcollection.JPG");
+			background-position: center 70%;
+		}
+
+		#banner.resources {
+			background-image: url("images/overlay.png"), url("../../images/resources.JPG");
+			background-position: center 70%;
+		}
+
+		#banner.inspiration {
+			background-image: url("images/overlay.png"), url("../../images/inspiration.JPG");
+			background-position: center 70%;
+		}
+
+		#banner.birdfestival {
+			background-image: url("images/overlay.png"), url("../../images/birdfestival.JPG");
+			background-position: center 70%;
+		}
+
+		#banner.references {
+			background-image: url("images/overlay.png"), url("../../images/references.JPG");
+			background-position: center 70%;
+		}
+
+		#banner.gallery {
+			background-image: url("images/overlay.png"), url("../../images/gallery.JPG");
+			background-position: center 70%;
+		}
+
+		#banner.trashgallery {
+			background-image: url("images/overlay.png"), url("../../images/IMG_7874.JPG");
+			background-position: center 70%;
+		}
+
+
+		#banner.trash {
+			background-image: url("images/overlay.png"), url("../../images/trash1.JPG");
+			background-position: center 70%;
+		}
 
 		#banner:last-child {
 			margin-bottom: 0;
@@ -3337,4 +3382,8 @@
 					padding: 0;
 				}
 
+		}
+
+		.space {
+			padding-bottom: 30px;
 		}
