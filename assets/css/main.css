@@ -3123,7 +3123,8 @@
 			padding-top: 22em;
 			height: 100vh;
 			width: 100vw;
-			background-image: url("images/overlay.png"), url("../../images/IMG_3132.JPG");
+			background-image: url("images/overlay.png"), url("../../images/WebsiteHeader.JPG");
+			/* background-blend-mode: multiply; */
 		}
 
 		#banner.goals {
@@ -3133,6 +3134,11 @@
 
 		#banner.projects {
 			background-image: url("images/overlay.png"), url("../../images/IMG_2747.JPG");
+			background-position: center 30%;
+		}
+
+		#banner.optoutside {
+			background-image: url("images/overlay.png"), url("../../images/badlands.JPG");
 			background-position: center 30%;
 		}
 
