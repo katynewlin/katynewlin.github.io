@@ -3497,3 +3497,7 @@
 		.space {
 			padding-bottom: 30px;
 		}
+
+#navToggle {
+	display: none;
+}
