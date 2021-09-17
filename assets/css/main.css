@@ -3175,8 +3175,10 @@
 		padding: 12em 0 4em 0;
 		background-attachment: fixed;
 		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
-		background-position: center top;
-		background-size: cover;
+		/* background-position: center top; */
+		/* width: 100vw;
+		height: 200px; */
+		background-size: 100vw;
 		line-height: 1.75;
 		text-align: center;
 	}
@@ -3220,83 +3222,83 @@
 
 		#banner.goals {
 			background-image: url("images/overlay.png"), url("../../images/IMG_2639.JPG");
-			background-position: center 75%;
+			/* background-position: center 75%; */
 		}
 
 		#banner.projects {
 			background-image: url("images/overlay.png"), url("../../images/IMG_2747.JPG");
-			background-position: center 30%;
+			/* background-position: center 30%; */
 		}
 
 		#banner.optoutside {
 			background-image: url("images/overlay.png"), url("../../images/badlands.JPG");
-			background-position: center 30%;
+			/* background-position: center 30%; */
 		}
 
 		#banner.collaborations {
 			background-image: url("images/overlay.png"), url("../../images/IMG_2718.JPG");
-			background-position: center 50%;
+			/* background-position: center 50%; */
 		}
 
 		#banner.publications {
 			background-image: url("images/overlay.png"), url("../../images/IMG_2743.JPG");
-			background-position: center 75%;
+			/* background-position: center 75%; */
 		}
 
 		#banner.contact {
 			background-image: url("images/overlay.png"), url("../../images/IMG_2751.JPG");
-			background-position: center 90%;
+			/* background-position: center 90%; */
 		}
 
 		#banner.alternatives {
 			background-image: url("images/overlay.png"), url("../../images/IMG_3106.JPG");
-			background-position: center 70%;
+			/* background-position: center 70%; */
 		}
 
 		#banner.Isolation {
 			background-image: url("images/overlay.png"), url("../../images/Isolation.JPG");
-			background-position: center 70%;
+			/* background-position: center 70%; */
 		}
 
 		#banner.books {
 			background-image: url("images/overlay.png"), url("../../images/bookcollection.JPG");
-			background-position: center 70%;
+			/* background-position: center 70%; */
 		}
 
 		#banner.resources {
 			background-image: url("images/overlay.png"), url("../../images/resources.JPG");
-			background-position: center 70%;
+			/* background-position: center 70%; */
 		}
 
 		#banner.inspiration {
 			background-image: url("images/overlay.png"), url("../../images/inspiration.JPG");
-			background-position: center 70%;
+			/* background-position: center 70%; */
 		}
 
 		#banner.birdfestival {
 			background-image: url("images/overlay.png"), url("../../images/birdfestival.JPG");
-			background-position: center 70%;
+			/* background-position: center 70%; */
 		}
 
 		#banner.references {
 			background-image: url("images/overlay.png"), url("../../images/references.JPG");
-			background-position: center 70%;
+			/* background-position: center 70%; */
 		}
 
 		#banner.gallery {
 			background-image: url("images/overlay.png"), url("../../images/gallery.JPG");
-			background-position: center 70%;
+			/* background-position: center 70%; */
 		}
 
 		#banner.trashgallery {
 			background-image: url("images/overlay.png"), url("../../images/IMG_7874.JPG");
-			background-position: center 70%;
+			/* background-position: center 70%; */
 		}
 
 
 		#banner.trash {
 			background-image: url("images/overlay.png"), url("../../images/trash1.JPG");
-			background-position: center 70%;
+			/* background-position: center 70%; */
 		}
 
 		#banner:last-child {
