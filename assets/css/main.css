@@ -3309,8 +3309,10 @@
 			color: #f5f5f5;
 			display: inline-block;
 			font-size: 2.5em;
-			line-height: 1.35;
-			margin-bottom: 3em;
+			line-height: 1.5;
+			top: 50%;
+			position: relative;
+			/* margin-bottom: 3em; */
 		}
 
 		#banner p {
@@ -3424,10 +3426,15 @@
 			font-size: 0.8em;
 		}
 
+		#footer .container {
+			padding: 5px;
+		}
+
 		#banner .container {
 			position: absolute;
 			bottom: 10px;
 			width: 100%;
+			padding: 5px;
 		}
 
 		/* #banner h2 {
@@ -3443,7 +3450,7 @@
 				}
 
 		#footer .copyright {
-			margin: 2em 0;
+			margin: 1em 0;
 			padding: 0;
 			text-align: center;
 		}
