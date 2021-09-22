@@ -3261,7 +3261,7 @@
 		}
 
 		#banner.books {
-			background-image: url("images/overlay.png"), url("../../images/bookcollection.JPG");
+			background-image: url("images/overlay.png"), url("../../images/bookcollection.jpg");
 			/* background-position: center 70%; */
 		}
 
