@@ -48,7 +48,7 @@
 			// Navigation Panel.
 				$(
 					'<div id="navPanel">' +
-						$('#nav').html() +
+						$('#navToggle').html() +
 						'<a href="#navPanel" class="close"></a>' +
 					'</div>'
 				)
