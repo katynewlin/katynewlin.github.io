@@ -28,7 +28,7 @@
 
 	ol, ul {
 		list-style: none;
-	}
+	}©
 
 	blockquote, q {
 		quotes: none;
@@ -3212,13 +3212,13 @@
 			padding: 20px;
 		}
 
-		/* #banner.home {
+		#banner.home {
 			padding-top: 12em;
 			height: 100vh;
 			width: 100vw;
-			background-image: url("images/overlay.png"), url("../../images/volcanoflowers.JPG");
+			background-image: url("images/overlay.png"), url("../../images/fabio-comparelli-JYjZDhUjaPU-unsplash.jpg");
 			background-blend-mode: multiply;
-		} */
+		}
 
 		#banner.goals {
 			background-image: url("images/overlay.png"), url("../../images/IMG_2639.JPG");
