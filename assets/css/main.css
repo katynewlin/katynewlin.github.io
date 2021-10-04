@@ -3511,3 +3511,7 @@
 #navToggle {
 	display: none;
 }
+
+#trashgallery .row {
+	margin: 0;
+}
