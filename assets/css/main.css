@@ -1990,7 +1990,7 @@
 				background-color: #f21040;
 			}
 
-		@media screen and (max-width: 480px) {
+		/* @media screen and (max-width: 480px) {
 
 			input[type="submit"],
 			input[type="reset"],
@@ -2000,7 +2000,7 @@
 				padding: 0;
 			}
 
-		}
+		} */
 
 /* Trash Gallery Template Layout */
 		.row {
